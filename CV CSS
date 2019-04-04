@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<link rel="stylesheet" href="css/meuestilo.css">
+
+</head>
+<body style="font-family:Verdana;color:#000000;">
+
+<div style="background-color:#f5f5f5;padding:15px;text-align:center;">
+  <h1>Gustavo Moura de Alcantara</h1>
+</div>
+
+<div style="overflow:auto">
+  <div class="menu">
+    <a class="three" href="https://www.usjt.br/"><i class="fas fa-university" style="font-size:24px;color:black;"></i> São Judas</a>
+    <a class="three" href="https://www.facebook.com/gustavo.mouraalcantara"><i class="fab fa-facebook" style="font-size:24px;color:black;"></i> Facebook</a>
+    <a class="three" href="https://www.instagram.com/gustav.ma/"><i class="fab fa-instagram" style="font-size:24px;color:black;"></i> Instagram</a>
+    <a class="three" href="http://trantordev.com/moodle/"><i class="fas fa-book" style="font-size:24px;color:black;"></i> Moodle</a>
+    <a><img src="Images/Foto Currículo.jpg" alt="some text" width=240 height=180></a>
+  </div>
+
+  <div class="main">
+    <h2 id="sobre1">Sobre:</h2>
+    <p id="sobre1">Gustavo Moura de alcantara, nascido em 26 de junho de 2001, na cidade de São Paulo, hoje reside no bairro de Perus tambem na capital Paulista;</p>
+    <p id="sobre1">Formado no Ensino médio na instituição de Ensino ETEC Gildo Marçal Bezerra Brandão onde tambem é formado no Curso tecnico de administração, hoje ingressado no curso de Gestão da Tecnologia da Informação na Universidade São Judas Tadeu.</p>
+    <p id="sobre1">As principais caracteristicas de Gustavo são elas a facilidade para adaptação e aprendizado, boa comunicação, bom desenvolvimento em trabalhos com equipe e proatividade.</p>
+    <P id="sobre1">Seu objetivo principal é ingressar no mercado de trabalho e desenvolver as devidas atividades com responsabilidade e visão de crescimento.</p>
+  </div>
+
+  <div class="right">
+    <h2>Dados Pessoais:</h2>
+    <p>Rua Engenheiro Augusto Durante 213</p>
+    <p>Telefo﻿ne﻿: 11 96978-3700 &nbsp&nbsp Solteiro </p>
+    <p>gustavo.moura390@hotmail.com </p></p>
+  </div>
+</div>
+
+<div style="background-color:#ffffff;text-align:center;padding:5px;margin-top:7px;">© copyright Gustavo Moura</div>
+
+</body>
+</html>
